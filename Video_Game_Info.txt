@@ -1,0 +1,46 @@
+GameID,Name,Platform,Genre,PurchaseDate
+1GTAV,Grand Theft Auto v,PlayStation 4,Action,2023-10-31
+2EldR,Elden Ring,PlayStation 5,RPG,2024-05-21
+3ToTK,The Legend of Zelda Tears of the Kingdom,Nintendo Switch,Adventure,2025-10-25
+4BOCW,Call of Duty Black Ops Cold War,Xbox Series S/X,Shooter,2024-06-17
+5MLB25,MLB The Show 25,PlayStation 5,Sports,2025-04-24 
+6MKW,Mariokart World,Nintendo Switch 2,Racing,2025-06-24
+7HOIIV,Hearts of Iron IV,PC,Strategy,2020-08-29
+8TRS,Tetris,Nintendo Switch,Puzzle,2024-10-23
+9SIMS,The Sims,PC,Simulation,2023-06-12
+10CPHD,Cuphead,Xbox Series S/X,Platformer,2021-04-24
+11SMO,Super Mario Odyssey,Nintendo Switch,Platformer,2023-02-23
+12SSB,Super Smash Bros,Nintendo Switch,Fighting,2024-06-27
+13GOWR,God of War Ragnarök,PlayStation 5,Action,2025-03-20
+14TWWH,The Witcher 3: Wild Hunt,PlayStation 5,Fantasy,2023-01-22
+15BG3,Baldur's Gate 3,Xbox Series S/X,RPG,2025-10-04
+16HD2,Helldivers 2,PlayStation 5,Shooter,2025-01-14
+17SPMN2,Spiderman 2,PlayStation 5,Action,2024-02-23
+18HI,Halo Infinite,Xbox Series S/X,Shooter,2025-05-21
+19ACNH,Animal Crossing New Horizons,Nintendo Switch,Sandbox,2025-01-23
+20PSV,Pokémon Scarlet and Violet,Nintendo Switch,JRPG,2025-10-31
+21UNCH,Uncharted 4,PlayStation 4,Adventure,2023-08-17
+22RDR2,Red Dead Redemption 2,PlayStation 4,Adventure,2024-10-27
+23SKRM,Skyrim,PC,Adventure,2025-02-26
+24HLWKGHT,Hollow Knight,Nintendo Switch,Adventure,2024-04-20
+25MK11,Mortal Kombat 11,PlayStation 4,Fighting,2025-01-24
+26SF6,Street Fighter 6,Xbox Series S/x,Fighting,2024-07-14
+27F125,Formula 1 25,PlayStation 5,Racing,2025-01-23
+28GT7,Grand Turismo 7,PlayStation 4,Racing,2025-02-27
+29HWU,Hot Wheels Unleashed,Xbox Series S/X,Racing,2024-05-25
+30FIF24,Fifa 24,PlayStation 5,Sports,2024-05-25
+31MDN25,Madden 25,PlayStation 5,Sports,2025-08-12
+32PSKTR,Tony Hawk's Pro Skater,PC,Sports,2025-03-21
+33WCRFTII,World of Warcraft III,PC,Strategy,2024-12-20
+34STRS,Stellaris,PC,Strategy,2023-11-27
+35RNSCPE,Runescape,PC,Fantasy,2025-06-12
+36TTP,The Talos Principle,Nintendo Switch,Puzzle,2024-06-27
+37P2,Portal 2,Xbox Series S/X,Puzzle,2025-09-19
+38ITT,It Takes Two,PlayStation 5,Puzzle,2025-10-21
+39STRDWV,Stardew Valley,PC,Simulation,2025-12-21
+40MFS,Microsoft Flight Simulator,PC,Simulation,2024-10-15
+41GMOD,Garry's Mod,PC,Sandbox,2024-12-26
+42TRRA,Terraria,PlayStation 5,Sandbox,2025-06-18
+43TESV,The Elder Scrolls V,Xbox Series S/X,Sandbox,2024-01-25
+44FFVI,Final Fantasy VI,PlayStation 4,JRPG,2025-01-24
+45XC2,Xenoblade Chronicles 2,Nintendo Switch,JRPG,2025-12-08

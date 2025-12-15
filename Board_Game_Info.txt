@@ -1,0 +1,21 @@
+GameID,Name,NoPlayers,Genre,PurchaseDate
+1CTN,Catan,3-4,Strategy,2024-04-23
+2CHSS,Chess,2-4,Abstract Strategy,2023-10-12
+3TWI,Twilight Imperium,3-6,Thematic,2024-12-19
+4PDMC,Pandemic,2-4,Coop,2025-02-17
+5PWRGRD,Power Grid,2-6,Resource Management,2023-06-27
+6CLDO,Cluedo,3-6,Mystery,2024-05-25
+7RSK,Risk,2-6,War,2024-09-29
+8CAH,Cards Against Humanity,4-30,Party,2024-07-13
+9MTG,Magic The Gathering,3-5,Card,2025-05-23
+10MNPLY,Monopoly,2-8,Casual,2024-11-28
+11TRFRMG,Terraforming Mars,1-5,Strategy,2023-01-12
+12CNNCT4,Connect 4,2-4,Strategy,2024-10-19
+13SRRY,Sorry,2-4,Chance,2024-02-27
+14TRVLPST,Trivial Pursuit,2-6,Trivia,2024-10-23
+15UNO,Uno,2-10,Card,2024-04-25
+16MFA,Mafia,4-8,Party,2025-02-09
+17MHJG,Mahjong,2-4,Abstract Strategy,2024-10-18
+18DMNS,Dominos,2-4,Abstract Strategy,2025-07-22
+19PKR,Poker,2-10,Card,2024-09-26
+20SRBBL,Scrabble,2-4,Word,2025-01-17

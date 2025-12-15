@@ -1,0 +1,66 @@
+GameID,Name,AmntTimesRented,Type
+1CTN,Catan,19,Board
+2CHSS,Chess,19,Board
+3TWI,Twilight,20,Board
+4PDMC,Pandemic,1,Board
+5PWRGRD,Power Grid,4,Board
+6CLDO,Cluedo,11,Board
+7RSK,Risk,17,Board
+8CAH,Cards Against Humanity,8,Board
+9MTG,Magic The Gathering,3,Board
+10MNPLY,Monopoly,6,Board
+11TRFRMG,Terraforming Mars,9,Board
+12CNNCT4,Connect 4,10,Board
+13SRRY,Sorry,6,Board
+14TRVLPST,Trivial Pursuit,10,Board
+15UNO,Uno,5,Board
+16MFA,Mafia,20,Board
+17MHJG,Mahjong,1,Board
+18DMNS,Dominos,13,Board
+19PKR,Poker,3,Board
+20SRBBL,Scrabble,4,Board
+1GTAV,Grand Theft Auto V,25,Video
+2EldR,Elden Ring,10,Video
+3ToTK,The Legend of Zelda Tears of the Kingdom,18,Video
+4BOCW,Call of Duty Black Ops Cold War,1,Video
+5MLB25,MLB The Show 25,5,Video
+6MKW,1Mariokart World,9,Video
+7HOIIV,Hearts of Iron IV,15,Video
+8TRS,Tetris,3,Video
+9SIMS,The Sims,3,Video
+10CPHD,Cuphead,5,Video
+11SMO,Super Mario Odyssey,17,Video
+12SSB,Super Smash Bros,11,Video
+13GOWR,God of War Ragnarök,4,Video
+14TWWH,The Witcher 3: Wild Hunt,2,Video
+15BG3,Baldur's Gate 3,7,Video
+16HD2,Helldivers 2,15,Video
+17SPMN2,Spiderman 2,12,Video
+18HI,Halo Infinite,3,Video
+19ACNH,Animal Crossing New Horizions,18,Video
+20PSV,Pokémon Scarlet and Violet,7,Video
+21UNCH,Uncharted 4,9,Video
+22RDR2,Red Dead Redemption 2,12,Video
+23SKRM,Skyrim,19,Video
+24HLWKGHT,Hollow Knight,4,Video
+25MK11,Mortal Kombat 11,4,Video
+26SF6,Street Fighter 6,9,Video
+27F125,Formula 1 25,8,Video
+28GT7,Grand Turismo 7,1,Video
+29HWU,Hot Wheels Unleashed,18,Video
+30FIF24,Fifa 24,7,Video
+31MDN25,Madden 25,3,Video
+32PSKTR,Tony Hawk's Pro Skater,4,Video
+33WCRFTII,World of Warcraft III,3,Video
+34STRS,Stellaris,17,Video
+35RNSCPE,Runescape,7,Video
+36TTP,The Talos Principle,5,Video
+37P2,Portal 2,8,Video
+38ITT,It Takes Two,12,Video
+39STRDWV,Stardew Valley,13,Video
+40MFS,Microsoft Flight Simulator,2,Video
+41GMOD,Garry's Mod,10,Video
+42TRRA,Terraria,19,Video
+43TESV,The Elder Scrolls V,2,Video
+44FFVI,Final Fantasy VI,15,Video
+45XC2,Xenoblade Chronicles 2,9,Video
